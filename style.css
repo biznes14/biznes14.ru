@@ -1,0 +1,2522 @@
+@media screen and (max-width: 1550px) {
+    .container {
+        color: #E7E7E9;
+        border-bottom: 1px solid none;
+        background-color: whitesmoke;
+        margin-top: -8px;
+        width: 1519px;
+        height: 80px;
+        margin-left: -8px;
+    }
+
+    body {
+        background-color: white;
+    }
+
+    .img {
+        margin-left: 308px;
+        margin-top: 17px;
+    }
+
+    .bux {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        float: right;
+        padding-top: 20px;
+        padding-left: none;
+        padding-right: none;
+        margin-right: 33px;
+        font-size: 15px;
+    }
+
+    .services {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        float: right;
+        padding-top: 20px;
+        padding-left: none;
+        padding-right: none;
+        margin-right: 33px;
+        font-size: 15px;
+    }
+
+    .partners {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        float: right;
+        padding-top: 20px;
+        margin-right: 33px;
+        font-size: 15px;
+    }
+
+    .make_money {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        float: right;
+        padding-top: 20px;
+        padding-left: none;
+        padding-right: none;
+        margin-right: 33px;
+        font-size: 15px;
+    }
+
+    .azarts {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        float: right;
+        padding-top: 20px;
+        padding-left: none;
+        padding-right: none;
+        margin-right: 33px;
+        font-size: 15px;
+    }
+
+    .bux:hover {
+        color: blue;
+    }
+
+    .services:hover {
+        color: blue;
+    }
+
+    .partners:hover {
+        color: blue;
+    }
+
+    .azarts:hover {
+        color: blue;
+    }
+
+    .make_money:hover {
+        color: blue;
+    }
+
+    .container_2 {
+        margin-top: -60px;
+    }
+
+    .container_3 {
+        color: black;
+        border-bottom: 1px solid white;
+        border-right: 1px solid white;
+        border-left: 1px solid white;
+        border-top: 1px solid none;
+        border-radius: none;
+        background-color: white;
+        width: 1105px;
+        height: 1200px;
+        margin-top: -37px;
+        margin-top: 0px;
+    }
+
+    .text {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 28px;
+        float: left;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+
+    .img_2 {
+        margin-top: 10px;
+        margin-right: 517px;
+        width: 500px;
+        height: 290px;
+        border-radius: 5px;
+    }
+
+    .input {
+        color: grey;
+        background-color: white;
+        border: 1px solid whitesmoke;
+        padding: 0 30px;
+        font-size: 17px;
+        border-radius: 50px;
+        width: 640px;
+        height: 40px;
+        margin-top: 15px;
+        margin-left: 150px;
+    }
+
+    .search {
+        color: grey;
+        width: 100px;
+        height: 43px;
+        border-radius: 50px;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        font-size: 17px;
+        float: right;
+        margin-top: 15px;
+        margin-right: 150px;
+    }
+
+    .input:hover {
+        background-color: #E7E7E9;
+    }
+
+    .search:hover {
+        background-color: #E7E7E9;
+    }
+
+    .Aviso {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 43px;
+    }
+
+    .Vktarget {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 15px;
+    }
+
+    .Vkserfing {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 8px;
+    }
+
+    .reCaptcha {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .Socpublic {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .Meteex {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 23px;
+    }
+
+    .UNU {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 44px;
+    }
+
+    .SeoSprint {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .SeoFast {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 15px;
+    }
+
+    .CryptTask {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .TaskPay {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 12px;
+    }
+
+    .QComment {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 16px;
+    }
+
+    .ProfiTCentR {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+
+    .ProfitTask {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 14px;
+    }
+    .WMRFast {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 1px;
+    }
+
+    .WMMail {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 11px;
+    }
+
+    .SurfEarner {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 17px;
+    }
+
+    .Surfebe {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 6px;
+    }
+
+    .BuxMoney {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 13px;
+    }
+
+    .TeaserFast {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 17px;
+    }
+
+    .IpWeb {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 16px;
+    }
+
+    .WMZona {
+        color: black;
+        text-decoration: none;
+        font-family: verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 4px;
+    }
+
+    .ViPip {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: -17px;
+    }
+
+    .WebIp {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .WMRok {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 1px;
+    }
+
+    .ySense {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-left: 1px;
+    }
+
+    .NeoBux {
+        color: black;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        margin-right: 2px;
+    }
+
+    .form {
+        margin-top: 30px;
+        float: right;
+        margin-left: 100px;
+        margin-right: 42px;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        border: 1px solid whitesmoke;
+        width: 150px;
+        padding-bottom: 15px;
+        border-radius: 20px;
+        padding-top: 15px;
+    }
+
+    .Aviso:hover {
+        color: blue;
+        background-color: whitesmoke;
+        text-decoration: none;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Vktarget:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Socpublic:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Vktarget:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .reCaptcha:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Meteex:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Vkserfing:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .Vktarget:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .UNU:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .SeoSprint:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .SeoFast:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .CryptTask:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .TaskPay:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .QComment:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .ProfiTCentR:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .ProfitTask:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .WMRFast:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .WMMail:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .SurfEarner:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+    }
+
+    .Surfebe:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .BuxMoney:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .TeaserFast:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    .IpWeb:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .WMZona:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .ViPip:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .WMRok:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .ySense:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .NeoBux:hover {
+        color: blue;
+        text-decoration: none;
+        background-color: whitesmoke;
+        font-family: Verdana;
+        font-weight: normal;
+        cursor: pointer;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .text_3 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-top: 37px;
+        margin-right: 20px;
+        font-size: 18px;
+    }
+
+    .text_5 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 16px;
+        margin-left: -1px;
+        margin-top: -10px;
+        background-color: white;
+        border-radius: 50px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        width: 150px;
+    }
+
+    .img_2 {
+        float: left;
+        margin-top: -649px;
+        border-radius: none;
+        margin-left: -1px;
+        width: 600px;
+        height: 300px;
+        margin-left: 104px;
+        margin-top: -570px;
+    }
+
+    .text_6 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-top: 40px;
+        margin-left: 44px;
+        font-size: 19px;
+    }
+
+    .p  {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-top: -10px;
+        margin-left: -159px;
+    }
+
+    .text_7 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-top: 340px;
+        margin-left: -507px;
+        font-size: 19px;
+    }
+
+    .p_2 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -210px;
+        margin-top: -10px;
+    }
+
+    .img_3 {
+        margin-left: -2px;
+    }
+
+    .p_3 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -262px;
+        font-size: 17px;
+    }
+
+    .p_5 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -18px;
+    }
+
+    .p_4 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -551px;
+    }
+
+    .li_3 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -796px;
+    }
+
+    .li_4 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -793px;
+        margin-top: 10px;
+    }
+
+    .li_5 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -804px;
+        margin-top: 10px;
+    }
+
+    .li_6 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -818px;
+        margin-top: 10px;
+    }
+
+    .li_7 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -800px;
+        margin-top: 10px;
+    }
+
+    .li_8 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -844px;
+        margin-top: 10px;
+    }
+
+    .li_9 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -783px;
+        margin-top: 10px;
+    }
+
+    .li_10 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -801px;
+        margin-top: 10px;
+    }
+
+    .p_6 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 491px;
+    }
+
+    .li_11 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 772px;
+    }
+
+    .li_12 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 790px;
+        margin-top: 10px;
+    }
+
+    .li_13 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 824px;
+        margin-top: 10px;
+    } 
+
+    .li_14 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 816px;
+        margin-top: 10px;
+    }
+
+    .li_15 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 805px;
+        margin-top: 10px;
+    }
+
+    .li_16 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 750px;
+        margin-top: 10px;
+    }
+
+    .li_17 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 804px;
+        margin-top: 10px;
+    }
+
+    .li_18 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 789px;
+        margin-top: 10px;
+    }
+
+    .li_19 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 757px;
+        margin-top: 10px;
+    }
+
+    .container_4 {
+        color: black;
+        border: 1px solid blue;
+        background-color: blue;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+        margin-top: 20px;
+    }
+
+    .container_5 {
+        color:black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_6 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_7 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_8 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_9 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_10 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_11 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_12 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .container_13 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+        margin-right: 230px;
+    }
+
+    .p_7 {
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        float: left;
+        margin-top: 7px;
+        margin-left: 15px;
+        font-size: 14px;
+    }
+
+    .p_8 {
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 280px;
+        margin-top: 7px;
+        font-size: 14px;
+    }
+
+    .p_9 {
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-top: -32px;
+    }
+
+    .p_10 {
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-top: -32px;
+        margin-right: 15px;
+        float: right;
+    }
+
+    .p_11 {
+        color: black;
+        font-size: 14px;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-top: 3px;
+        float: left;
+        margin-left: -141px;
+    }
+
+    .p_12 {
+        color: black;
+        font-size: 14px;
+        font-family: Verdana;
+        font-weight: normal;
+        float: left;
+        margin-top: 4px;
+        margin-left: 66px;
+    }
+
+    .p_13 {
+        color: black;
+        font-size: 14px;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 147px;
+        margin-top: 7px;
+    }
+
+    .p_14 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-top: -32px;
+        margin-right: 60px;
+    }
+
+    .p_15 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: -245px;
+        margin-top: 4px;
+    }
+
+    .p_16 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: -40px;
+        margin-top: 3px;
+    }
+
+    .p_17 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 148px;
+        margin-top: 8px;
+    }
+
+    .p_18 {
+        color: black;
+        float: right;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-top: -32px;
+        margin-right: 106px;
+    }
+
+    .p_19 {
+        color: black;
+        float: left;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-left: 18px;
+        margin-top: 5px;
+    }
+
+    .p_20 {
+        color: black;
+        float: center;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 193px;
+        margin-top: 8px;
+    }
+
+    .p_21 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-top: -30px;
+        margin-left: 133px;
+    }
+
+    .p_22 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-top: -32px;
+        margin-right: 105px;
+    }
+
+    .p_23 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: -30px;
+        margin-top: 3px;
+    }
+    .p_24 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 226px;
+        margin-top: 9px;
+    }
+
+    .p_25 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: -70px;
+        margin-top: -30px;
+    }
+
+    .p_26 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 58px;
+        margin-top: -30px;
+    }
+
+    .p_27 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: 18px;
+        margin-top: 3px;
+    }
+
+    .p_28 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 208px;
+        margin-top: 11px;
+    }
+
+    .p_29 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: center;
+        margin-left: 123px;
+        margin-top: -31px;
+    }
+
+    .p_30 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 58px;
+        margin-top: -32px;
+    }
+
+    .p_31 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: 18px;
+        margin-top: 2px;
+    }
+
+    .p_32 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: center;
+        margin-right: -26px;
+        margin-top: 11px;
+    }
+
+    .p_33 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 272px;
+        margin-top: -32px;
+    }
+
+    .p_34 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 57px;
+        margin-top: -31px;
+    }
+
+    .p_35 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: 18px;
+        margin-top: 2px;
+    }
+
+    .p_39 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 664px;      
+    }
+
+    .p_36 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: -61px;
+    }
+
+    .p_37 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 216px;
+        margin-top: -33px;
+    }
+
+    .p_38 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 74px;
+        margin-top: -30px;
+    }
+
+    .p_40 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: 18px;
+        margin-top: 2px;
+    }
+
+    .p_41 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 229px;
+    }
+
+    .p_42 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-left: 127px;
+        margin-top: -32px;
+    }
+
+    .p_43 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 56px;
+        margin-top: -32px;
+    }
+
+    .p_44 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: left;
+        margin-left: 18px;
+        margin-top: 3px;
+    }
+
+    .p_45 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: 255px;
+        margin-top: 15px;
+    }
+
+    .p_46 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        margin-right: -22px;
+        margin-top: -35px;
+    }
+
+    .p_47 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 14px;
+        float: right;
+        margin-right: 56px;
+        margin-top: -33px;
+    }
+
+    .img_4 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -1670px;
+        border-top: 20px solid #2B947B;
+    }
+
+    .img_5 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -1403px;
+        border-top: none;
+    }
+
+    .img_6 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -1102px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_7 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -802px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_8 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -502px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_9 {
+        margin-left: -14px;
+        margin-top: -10px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_10 {
+        float: left;
+        margin-left: -210px;
+        margin-top: -203px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_11 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 97px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_12 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 395px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_13 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 695px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_14 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 995px;
+        border-right: 50px solid whitesmoke;
+        border-top: 20px solid whitesmoke;
+    }
+
+    .img_15 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 1295px;
+        border-right: 1px solid whitesmoke;
+    }
+
+    .container_2 {
+        margin-right: 229px;
+    }
+
+    .img_16 {
+        width: 1520px;
+        margin-top: -10px;
+        margin-left: -10px;
+    }
+
+    .img_17 {
+        float: left;
+        margin-left: -210px;
+        margin-top: 1590px;
+    }
+
+    .container_50 {
+        color: black;
+        margin-top: -7px;
+    }
+
+    .button {
+        color: black;
+        text-decoration: none;
+    }
+
+    .form {
+        background-color: white;
+        border: 1px solid whitesmoke;
+    }
+
+    .img_17 {
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        margin-top: 20px;
+        margin-left: -105px;
+        border: 1px solid blue;
+        background-color: blue;
+        border-radius: 50px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .img_17:hover {
+        color: white;
+        background-color: gold;
+        border: 1px solid gold;
+        transition: 1s;
+    }
+
+    .text_8 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 19px;
+        margin-top: 100px;
+        margin-right: 734px;
+    }
+
+    .p_48 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 485px;
+    }
+
+    .img_19 {
+        width: 600px;
+        height: 100px;
+        margin-right: 276px;
+    }
+
+    .p_49 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 17px;
+        margin-right: 533px;
+    }
+
+    .p_50 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 255px;
+    }
+
+    .p_51 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 529px;
+    }
+
+    .li_20 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -774px 
+    }
+
+    .li_21 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -769px;
+        margin-top: 10px 
+    }
+    
+    .li_22 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -779px;
+        margin-top: 10px 
+    }
+    
+    .li_23 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -789px;
+        margin-top: 10px;
+    }
+    
+    .li_24 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -773px;
+        margin-top: 10px;
+    }
+
+    .li_25 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -816px;
+        margin-top: 10px;
+    }
+    
+    .li_26 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -755px;
+        margin-top: 10px;
+    }
+    
+    .li_27 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-left: -774px;
+        margin-top: 10px;
+    }
+
+    .p_52 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 466px;
+    }
+
+    .li_28 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 746px;
+        margin-top: 10px;
+    }
+
+    .li_29 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 764px;
+        margin-top: 10px;
+    }
+
+    .li_30 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 799px;
+        margin-top: 10px;
+    }
+
+    .li_31 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 791px;
+        margin-top: 10px;
+    }
+
+    .li_32 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 779px;
+        margin-top: 10px;
+    }
+
+    .li_33 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 725px;
+        margin-top: 10px;
+    }
+
+    .li_34 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 779px;
+        margin-top: 10px;
+    }
+
+    .li_35 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 763px;
+        margin-top: 10px;
+    }
+
+    .li_36 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 732px;
+        margin-top: 10px;
+    }
+
+    .p_53 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        margin-right: 637px;
+    }
+
+    .blanks {
+        margin-left: 28px;
+    }
+
+    .img_20 {
+        margin-top: 20px;
+        color: white;
+        font-family: Verdana;
+        font-weight: normal;
+        text-decoration: none;
+        margin-left: -108px;
+        border: 1px solid blue;
+        background-color: blue;
+        border-radius: 50px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+        padding-left: 10px;
+        padding-right: 10px;
+        float: left;
+        width: 138px;
+    }
+
+    .img_20:hover {
+        color: white;
+        background-color: gold;
+        border: 1px solid gold;
+        transition: 1s;
+    }
+
+    .p_54 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 19px;
+        margin-top: 80px;
+        float: left;
+        margin-left: -159px;
+    }
+
+    .p_55 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 19px;
+        margin-top: 120px;
+        float: left;
+        margin-left: -159px;
+    }
+
+    .img_21 {
+        width: 600px;
+        aspect-ratio: auto 600 / 100;
+        height: 100px;
+        border-top-width: 0px;
+        border-bottom-width: 0px;
+        border-left-width: 0px;
+        border-right-width: 0px;
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-right-style: solid;
+        margin-right: 50px;
+    }
+
+    .p_56 {
+        color: blue;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 19px;
+        margin-right: 269px;
+    }
+
+    .p_57 {
+        color: black;
+        font-family: Verdana;
+        font-weight: normal;
+        font-size: 17px;
+    }
+
+    .container_14 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-radius: none;
+        width: 650px;
+        height: 864px;
+        margin-top: 100px;
+    }
+
+    .container_15 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-right: none;
+        border-left: none;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+    }
+
+    .container_16 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-right: none;
+        border-left: none;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+    }
+
+    .container_17 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-right: none;
+        border-left: none;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+    }
+
+    .container_18 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-right: none;
+        border-left: none;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+    }
+
+    .container_21 {
+        color: black;
+        border: 1px solid whitesmoke;
+        background-color: white;
+        border-right: none;
+        border-left: none;
+        border-radius: none;
+        width: 650px;
+        height: 33px;
+}
+
+.container_22 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_23 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_24 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_25 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_19 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_20 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_26 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_27 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_28 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_29 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_30 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_31 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_32 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_33 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_34 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_35 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_36 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_37 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_38 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_39 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_40 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-right: none;
+    border-left: none;
+    border-radius: none;
+    width: 650px;
+    height: 33px;
+}
+
+.container_15:hover, .container_16:hover, .container_17:hover, .container_18:hover, .container_19:hover, .container_20:hover, .container_21:hover, .container_22:hover, .container_23:hover, .container_24:hover, .container_25:hover, .container_26:hover, .container_27:hover, .container_28:hover, .container_29:hover, .container_30:hover, .container_31:hover, .container_32:hover, .container_33:hover, .container_34:hover, .container_35:hover, .container_36:hover, .container_37:hover, .container_38:hover, .container_39:hover, .container_40:hover {
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+
+.p_60 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.p_61 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: -42px;
+}
+
+.p_62 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: -76px;
+}
+
+.p_63 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.p_64 {
+    color: black;
+    font-family: verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: -76px;
+}
+
+.p_65 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -82px;
+}
+
+.p_66 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 9px;
+}
+
+.p_67 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -36px;
+}
+
+.p_68 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -79px;
+}
+
+.p_68 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    float: left;
+    margin-top: 8px;
+    margin-left: -79px;
+}
+
+.p_69 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.p_70 {
+    color: black;
+    font-family: verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -79px;
+}
+
+.p_71 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px; 
+}
+
+.p_72 {
+    color: black;
+    font-family: Verdana;
+    font-weight:  normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -88px;
+}
+
+.p_73 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration:  none;
+    margin-top: 8px;
+    margin-left: -90px;
+}
+
+.p_74 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.p_75 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -73px;
+}
+
+.p_76 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.p_77 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -86px;
+}
+
+.p_78 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.p_79 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -83px;
+}
+
+.p_80 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -85px;
+}
+
+.p_81 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.p_82 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -70px;
+}
+
+.p_83 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: -81px;
+}
+
+.p_84 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 6px;
+}
+
+.container_40 {
+    color: black;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    width: 1520px;
+    height: 200px;
+    margin-left: -337px;
+    margin-top: 50px;
+}
+
+.h2_2 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    margin-left: 20px;
+}
+
+.h2_3 {
+    color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    float: left;
+    margin-top: 21px;
+}
+
+.h3_3 {
+    color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    margin-right: 300px;
+    cursor: pointer;
+}
+
+.h3_4 {
+    color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    margin-right: 290px;
+    cursor: pointer;
+}
+
+.h3_5 {
+    color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.h3_6 {
+    color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: none;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.h3_3:hover {
+    color: black;
+}
+
+.h3_4:hover {
+    color: black;
+}
+
+.h3_5:hover {
+    color: black;
+}
+
+.h3_6:hover {
+    color: black;
+}
+
+.button {
+    text-decoration: none;
+}
+
+.button_2 {
+    text-decoration: none;
+}
+
+.p_85 {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 20px;
+}
+}
